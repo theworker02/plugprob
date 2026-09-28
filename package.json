@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/plugprob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plug lightweight prob statistics from stdin samples.",
+  "bin": {
+    "plugprob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/plugprob.git"
+  },
+  "homepage": "https://theworker02.github.io/plugprob/",
+  "keywords": [
+    "plug",
+    "prob",
+    "stat",
+    "cli",
+    "toolkit"
+  ]
+}
